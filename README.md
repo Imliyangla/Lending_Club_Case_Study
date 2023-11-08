@@ -1,6 +1,7 @@
 # Loan Risk Assessment and Default Prediction: An Exploratory Data Analysis (EDA)
-> The project aims to explore the factors that influence loan risk and default in a consumer finance company. It involves conducting an Exploratory Data Analysis (EDA) on past loan applicants' data to understand the patterns and attributes associated with loan defaults. Two types of risks are considered in this analysis:
-
+> The project aims to explore the factors that influence loan risk and default in a consumer finance company. It involves conducting an Exploratory Data Analysis (EDA) on past loan applicants' data to understand the patterns and attributes associated with loan defaults.
+> 
+> Two types of risks are considered in this analysis:
 Risk of Not Approving a Repayable Loan: If the applicant is likely to repay the loan, not approving it results in a business loss.
 Risk of Default: If the applicant is likely to default, approving the loan may lead to a financial loss for the company.
 
